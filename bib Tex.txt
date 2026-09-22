@@ -1,0 +1,305 @@
+@book{us1964traffic,
+  title={Traffic assignment manual for application with a large, high speed computer},
+  author={US Bureau of Public Roads. Office of Planning. Urban Planning Division},
+  year={1964},
+  publisher={US Department of Commerce}
+}
+
+@article{akccelik1991travel,
+  title={Travel time functions for transport planning purposes: Davidson's function, its time dependent form and alternative travel time function},
+  author={Ak{\c{c}}elik, Rahmi},
+  journal={Australian Road Research},
+  volume={21},
+  number={3},
+  year={1991}
+}
+
+@article{spiess1990conical,
+  title={Conical volume-delay functions},
+  author={Spiess, Heinz},
+  journal={Transportation Science},
+  volume={24},
+  number={2},
+  pages={153--158},
+  year={1990},
+  publisher={INFORMS}
+}
+
+@article{moses2013development,
+  title={Development of speed models for improving travel forecasting and highway performance evaluation},
+  author={Moses, Ren and Mtoi, Enock and Ruegg, Steve and McBean, Heinrich},
+  year={2013}
+}
+
+@article{paszkowski2021modelling,
+  title={Modelling the effects of traffic-calming introduction to volume--delay functions and traffic assignment},
+  author={Paszkowski, Jan and Herrmann, Marcus and Richter, Matthias and Szarata, Andrzej},
+  journal={Energies},
+  volume={14},
+  number={13},
+  pages={3726},
+  year={2021},
+  publisher={MDPI}
+}
+
+@article{daganzo1995cell,
+  title={The cell transmission model, part II: network traffic},
+  author={Daganzo, Carlos F},
+  journal={Transportation Research Part B: Methodological},
+  volume={29},
+  number={2},
+  pages={79--93},
+  year={1995},
+  publisher={Elsevier}
+}
+
+@article{aghamohammadi2020dynamic,
+  title={Dynamic traffic assignment using the macroscopic fundamental diagram: A review of vehicular and pedestrian flow models},
+  author={Aghamohammadi, Rafegh and Laval, Jorge A},
+  journal={Transportation Research Part B: Methodological},
+  volume={137},
+  pages={99--118},
+  year={2020},
+  publisher={Elsevier}
+}
+
+@article{safadi2023macroscopic,
+  title={Macroscopic fundamental diagrams for low-altitude air city transport},
+  author={Safadi, Yazan and Fu, Rao and Quan, Quan and Haddad, Jack},
+  journal={Transportation Research Part C: Emerging Technologies},
+  volume={152},
+  pages={104141},
+  year={2023},
+  publisher={Elsevier}
+}
+
+
+@inproceedings{chour2024analysis,
+  title={Analysis of Traffic Flow in Structured Urban Airspace Networks With MFD-Based Feedback Control},
+  author={Chour, Kenny and Razzaghi, Pouria and Verma, Dhriti and Xue, Min and Munishkin, Alexey and Kalyanam, Krishna},
+  booktitle={AIAA AVIATION FORUM AND ASCEND 2024},
+  pages={4575},
+  year={2024}
+}
+
+@article{aarts2021analysis,
+  title={An analysis of the factors influencing the capacity of constrained urban airspace},
+  author={Aarts, Michiel},
+  journal={Delft University of Technology, URL: http://resolver. tudelft. nl/uuid: e42b740e-682b-4c88-8764-7527edfce94f},
+  year={2021}
+}
+
+@inproceedings{cummings2023effect,
+  title={Effect of airspace characteristics on urban air mobility airspace capacity},
+  author={Cummings, William G and Denham, Casey L and Smith, Jeremy C},
+  booktitle={AIAA SciTech 2023 Forum},
+  pages={0545},
+  year={2023}
+}
+
+@article{patrinopoulou2023dynamic,
+  title={Dynamic capacity management for air traffic operations in high density constrained urban airspace},
+  author={Patrinopoulou, Niki and Daramouskas, Ioannis and Badea, Calin Andrei and Veytia, Andres Morfin and Lappas, Vaios and Ellerbroek, Joost and Hoekstra, Jacco and Kostopoulos, Vassilios},
+  journal={Drones},
+  volume={7},
+  number={6},
+  pages={395},
+  year={2023},
+  publisher={MDPI}
+}
+
+@inproceedings{veytia2024dynamic,
+  title={Dynamic Capacity Balancing in Urban Airspace: Comparing Historical and Real-time Aggregate Flow Data},
+  author={Veytia, A Morfin and Ellerbroek, J and Hoekstra, J},
+  booktitle={14th SESAR Innovation Days, SIDS 2024},
+  year={2024}
+}
+
+@inproceedings{moolchandani2024demand,
+  title={Demand-capacity balancing algorithms for urban air mobility operations},
+  author={Moolchandani, Kushal A and Lee, Hanbong},
+  booktitle={2024 AIAA DATC/IEEE 43rd Digital Avionics Systems Conference (DASC)},
+  pages={1--9},
+  year={2024},
+  organization={IEEE}
+}
+
+@inproceedings{lee2023estimating,
+  title={Estimating Throughput for Urban Air Mobility Operations},
+  author={Lee, Hanbong and Windhorst, Robert D and Lauderdale, Todd A and Cone, Andrew and Moolchandani, Kushal A},
+  booktitle={AIAA Aviation 2023 Forum},
+  pages={3263},
+  year={2023}
+}
+
+@article{chen2024integrated,
+  title={Integrated conflict management for UAM with strategic demand capacity balancing and learning-based tactical deconfliction},
+  author={Chen, Shulu and Evans, Antony D and Brittain, Marc and Wei, Peng},
+  journal={IEEE Transactions on Intelligent Transportation Systems},
+  volume={25},
+  number={8},
+  pages={10049--10061},
+  year={2024},
+  publisher={IEEE}
+}
+
+@article{mehditabrizi2023deep,
+  title={A deep reinforcement learning approach to assess the low-altitude airspace capacity for urban air mobility},
+  author={Mehditabrizi, Asal and Samadzad, Mahdi and Sabzekar, Sina},
+  journal={arXiv preprint arXiv:2301.09758},
+  year={2023}
+}
+
+
+@article{pongsakornsathien2020performance,
+  title={A performance-based airspace model for unmanned aircraft systems traffic management},
+  author={Pongsakornsathien, Nichakorn and Bijjahalli, Suraj and Gardi, Alessandro and Symons, Angus and Xi, Yuting and Sabatini, Roberto and Kistan, Trevor},
+  journal={Aerospace},
+  volume={7},
+  number={11},
+  pages={154},
+  year={2020},
+  publisher={MDPI}
+}
+
+@article{mccarthy2020fundamental,
+  title={Fundamental elements of an urban UTM},
+  author={McCarthy, Tim and Pforte, Lars and Burke, Rebekah},
+  journal={Aerospace},
+  volume={7},
+  number={7},
+  pages={85},
+  year={2020},
+  publisher={MDPI}
+}
+
+@article{quan2021sky,
+  title={Sky highway design for dense traffic},
+  author={Quan, Quan and Li, Mengxin and Fu, Rao},
+  journal={IFAC-PapersOnLine},
+  volume={54},
+  number={2},
+  pages={140--145},
+  year={2021},
+  publisher={Elsevier}
+}
+
+
+@article{he2022route,
+  title={A route network planning method for urban air delivery},
+  author={He, Xinyu and He, Fang and Li, Lishuai and Zhang, Lei and Xiao, Gang},
+  journal={Transportation Research Part E: Logistics and Transportation Review},
+  volume={166},
+  pages={102872},
+  year={2022},
+  publisher={Elsevier}
+}
+
+
+@article{li2024air,
+  title={Air route design of multi-rotor uavs for urban air mobility},
+  author={Li, Shan and Zhang, Honghai and Li, Zhuolun and Liu, Hao},
+  journal={Drones},
+  volume={8},
+  number={10},
+  pages={601},
+  year={2024},
+  publisher={MDPI}
+}
+
+
+@article{ditta2023three,
+  title={Three-dimensional urban air networks for future urban air transport systems},
+  author={Ditta, Chiara Caterina and Postorino, Maria Nadia},
+  journal={Sustainability},
+  volume={15},
+  number={18},
+  pages={13551},
+  year={2023},
+  publisher={MDPI}
+}
+
+
+@inproceedings{xue2020small,
+  title={Small UAV flight planning in urban environments},
+  author={Xue, Min and Wei, Melissa},
+  booktitle={AIAA Aviation 2020 Forum},
+  pages={2890},
+  year={2020}
+}
+
+
+@article{rienecker2023energy,
+  title={Energy optimal 3D flight path planning for unmanned aerial vehicle in urban environments: H. Rienecker et al.},
+  author={Rienecker, Hannes and Hildebrand, Veit and Pfifer, Harald},
+  journal={CEAS Aeronautical Journal},
+  volume={14},
+  number={3},
+  pages={621--636},
+  year={2023},
+  publisher={Springer}
+}
+
+@article{pang2021third,
+  title={Third party risk modelling and assessment for safe uav path planning in metropolitan environments},
+  author={Pang, Bizhao and Hu, Xinting and Dai, Wei and Low, Kin Huat},
+  journal={arXiv preprint arXiv:2107.01834},
+  year={2021}
+}
+
+
+@inproceedings{guerreiro2020capacity,
+  title={Capacity and throughput of urban air mobility vertiports with a first-come, first-served vertiport scheduling algorithm},
+  author={Guerreiro, Nelson M and Hagen, George E and Maddalon, Jeffrey M and Butler, Ricky W},
+  booktitle={AIAA aviation 2020 forum},
+  pages={2903},
+  year={2020}
+}
+
+@article{schweiger2022urban,
+  title={Urban air mobility: Systematic review of scientific publications and regulations for vertiport design and operations},
+  author={Schweiger, Karolin and Preis, Lukas},
+  journal={Drones},
+  volume={6},
+  number={7},
+  pages={179},
+  year={2022},
+  publisher={MDPI}
+}
+
+@article{jiang2024simulating,
+  title={Simulating integration of urban air mobility into existing transportation systems: Survey},
+  author={Jiang, Xuan and Tang, Yuhan and Cao, Junzhe and Bulusu, Vishwanath and Yang, Hao and Peng, Xin and Zheng, Yunhan and Zhao, Jinhua and Sengupta, Raja},
+  journal={Journal of Air Transportation},
+  volume={32},
+  number={3},
+  pages={97--107},
+  year={2024},
+  publisher={American Institute of Aeronautics and Astronautics}
+}
+
+@article{schuchardt2023air,
+  title={Air traffic management as a vital part of urban air mobility—a review of DLR’s research work from 1995 to 2022},
+  author={Schuchardt, Bianca I and Geister, Dagi and L{\"u}ken, Thomas and Knabe, Franz and Metz, Isabel C and Peinecke, Niklas and Schweiger, Karolin},
+  journal={Aerospace},
+  volume={10},
+  number={1},
+  pages={81},
+  year={2023},
+  publisher={MDPI}
+}
+
+@article{廖小罕2022无人机应用发展关键基础设施与低空公共航路网规划,
+  title={无人机应用发展关键基础设施与低空公共航路网规划},
+  author={廖小罕 and 徐晨晨 and 叶虎平 and 谭翔 and 房世峰 and 黄耀欢 and 林静},
+  journal={中国科学院院刊},
+  volume={37},
+  number={7},
+  pages={977--988},
+  year={2022}
+}
+
+
+
+
+
